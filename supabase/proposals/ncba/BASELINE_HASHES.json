@@ -1,0 +1,15 @@
+{
+  "prepared_on": "2026-10-20",
+  "approval_status": "not-approved-for-execution",
+  "hash_mode": "SHA-256 exact file bytes; paths relative to supabase/",
+  "files": {
+    "audits/coastwave_staging_audit.json": "8313fcde29cea1791a3d3a6896f177daf4d14b2f9b1a098b7ac9342cc9fb6ccd",
+    "migrations/20261017000100_secure_payment_foundation.sql": "8cafc16fb888b85525e4392a4573a0765a726fcbf4a490e73c73c61bb9e89e22",
+    "migrations/20261017000200_secure_order_creation.sql": "9b83335c7694bf0d3c0d390d544b35041bb86f59d89ade9da4d9a23dca9976f5",
+    "migrations/20261020000100_ncba_payment_operations.sql": "541e332676496293a2c4e879717c8435a4c46b193940b4e887e00b7ca4ec825b",
+    "proposals/ncba/01_security_hardening.sql": "7e60142b9d85ae46099c7f439a0adb95095e3d38151268bacb211f54e0177ab1",
+    "proposals/ncba/02_default_privileges.sql": "a1fd220ff11297fa9a771d9fd95a88397c22a3d9d79be28ac30eeea508601730",
+    "tests/sql/05_security_baseline.sql": "130df2e7328ecf106e9a9e6d5b28bc576c667f1c54d83a2a3ce221a22eaaa75a",
+    "tests/sql/10_privileges.sql": "8ea5cc8a0f2ff404068266e12afc5325161c1fbd70de2a70965cec20ff087626"
+  }
+}
